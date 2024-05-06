@@ -1,0 +1,20 @@
+1 - Soma de dois números: Escreva um programa que recebe dois números como entrada e retorna a soma deles.
+2 - Média de três números: Escreva um programa que calcula a média de três números fornecidos como entrada.
+3 - Verificação de número par ou ímpar: Crie um programa que verifica se um número fornecido pelo usuário é par ou ímpar.
+4 - Cálculo de fatorial: Escreva um programa que calcula o fatorial de um número fornecido pelo usuário.
+5 - Identificação do maior de dois números: Escreva um programa que determina qual dos dois números fornecidos pelo usuário é o maior.
+6 - Contagem regressiva: Escreva um programa que imprime uma contagem regressiva de 10 até 1.
+7 - Verificação de palíndromo: Crie um programa que verifica se uma palavra fornecida pelo usuário é um palíndromo (ou seja, se ela é a mesma se lida de trás para frente).
+8 - Conversão de temperatura: Escreva um programa que converte uma temperatura fornecida em graus Celsius para Fahrenheit.
+9 - Identificação do maior de três números: Escreva um programa que determina qual dos três números fornecidos pelo usuário é o maior.
+10 - Tabuada de multiplicação: Crie um programa que imprime a tabuada de multiplicação de um número fornecido pelo usuário.
+11 - Verificação de número primo: Escreva um programa que verifica se um número fornecido pelo usuário é primo.
+12 - Cálculo de média ponderada: Crie um programa que calcula a média ponderada de três notas, onde os pesos são fornecidos pelo usuário.
+13 - Cálculo de juros simples: Escreva um programa que calcula o montante final após aplicar juros simples a um principal, com taxa de juros e período fornecidos pelo usuário.
+14 - Contagem de vogais em uma frase: Crie um programa que conta quantas vogais há em uma frase fornecida pelo usuário.
+15 - Verificação de número perfeito: Escreva um programa que verifica se um número fornecido pelo usuário é um número perfeito.
+16 - Conversão de número binário para decimal: Crie um programa que converte um número binário fornecido pelo usuário para decimal.
+17 - Identificação de números primos em um intervalo: Escreva um programa que identifica e imprime todos os números primos em um intervalo fornecido pelo usuário.
+18 - Contagem de ocorrências de um caractere em uma string: Crie um programa que conta quantas vezes um caractere específico ocorre em uma string fornecida pelo usuário.
+19 - Cálculo do volume de uma esfera: Escreva um programa que calcula o volume de uma esfera, dado o raio fornecido pelo usuário.
+20 - Verificação de ano bissexto: Crie um programa que verifica se um ano fornecido pelo usuário é bissexto ou não.
