@@ -1,6 +1,6 @@
 package Aula08;
 
-public class Triangulo {
+public class Triangulo extends FiguraGeometrica {
 	
 	double base;
 	double lado1;
