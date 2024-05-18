@@ -1,0 +1,42 @@
+Sistema de Biblioteca
+O Sistema de Biblioteca é um projeto prático que simula um sistema de gerenciamento de biblioteca real. Ele aplica os conceitos de herança, polimorfismo, abstração e encapsulamento.
+
+Classes
+O sistema contém as seguintes classes:
+
+
+Livro: Esta classe representa um livro na biblioteca. Ela contém atributos como título, autor, ISBN, quantidade em estoque, etc.
+
+
+Usuário: Esta classe representa um usuário da biblioteca. Ela contém atributos como nome, ID do usuário, livros emprestados, etc.
+
+
+Empréstimo: Esta classe representa um empréstimo de livro. Ela contém atributos como ID do empréstimo, livro emprestado, usuário que pegou o livro, data do empréstimo, data de devolução, etc.
+
+
+
+Funcionalidades
+O sistema fornece as seguintes funcionalidades:
+
+
+Empréstimo de livros: Os usuários podem pegar livros emprestados da biblioteca. O sistema verifica se o livro está disponível e, em seguida, registra o empréstimo.
+
+
+Devolução de livros: Os usuários podem devolver livros que pegaram emprestados. O sistema registra a devolução e atualiza a quantidade de livros em estoque.
+
+
+Busca de livros: Os usuários podem buscar livros pelo título, autor ou ISBN. O sistema retorna uma lista de livros que correspondem à busca.
+
+
+Gerenciamento de usuários: O sistema permite adicionar, atualizar e remover usuários.
+
+
+Gerenciamento de livros: O sistema permite adicionar, atualizar e remover livros.
+
+
+
+Como usar
+
+Inicie o sistema.
+Selecione uma opção do menu principal.
+Siga as instruções na tela para usar cada funcionalidade.
