@@ -1,0 +1,4 @@
+Como usar o sistema da biblioteca: 
+1- Criar um usuario e um livro usando um código UUID (exemplo: 6ce3a482-55dc-4fab-8893-47bceab3b049)
+  1.1- Caso for acidionar outro livro ele irá perguntar qual o nome do livro para checkar para ver se ja existe um livro com esse nome, caso exista ele irá adicioar +1 na quantidade de livros disponiveis.
+2- Usar o sistema normalmente, criando usuarios e livros, fazendo emprestismos, busca por livros ja criados dentro do sistema etc. 
